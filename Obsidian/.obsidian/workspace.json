@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Places/Places.md",
-                "mode": "source",
+                "file": "Index.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Places/Places.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Places/Places.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Places/Places.md"
+                "file": "Index.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "ea69d44a81446d27",
   "lastOpenFiles": [
-    "Index.md",
-    "Notes/About Me.md",
-    "Notes/My Friends/My Childhood Friends.md",
+    "Notes/Me.md",
     "Notes/Places/Places.md",
+    "Index.md",
+    "Notes/My Friends/My Childhood Friends.md",
     "Notes/Places",
     "Project/Notes/About Me.md",
     "Project/Index.md",
